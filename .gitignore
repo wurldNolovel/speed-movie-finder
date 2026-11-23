@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+backend/.venv/
+
+# Environment secrets
+backend/.env
+
+# Database
+backend/db.sqlite3
+
+# Django generated files
+staticfiles/git check-ignore -v --no-index backend/.env
