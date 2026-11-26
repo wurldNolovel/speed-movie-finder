@@ -13,3 +13,5 @@ backend/db.sqlite3
 
 # Django generated files
 staticfiles/git check-ignore -v --no-index backend/.env
+
+backend/staticfiles/
